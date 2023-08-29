@@ -1,0 +1,802 @@
+[
+  {
+    "path": "/",
+    "score": 0.9
+  },
+  {
+    "path": "/a-message-from-the-director",
+    "score": 0.98
+  },
+  {
+    "path": "/a-note-from-director-johnson",
+    "score": 0.98
+  },
+  {
+    "path": "/about-us",
+    "score": 0.98
+  },
+  {
+    "path": "/about-us/community-engagement/about-faith-citizen-programs",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/community-engagement/program-approvals",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/community-engagement/volunteer-forms",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/facilities-and-offices",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/faqs",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/faqs/escorted-leave-and-funeral-leave-for-offenders",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/faqs/information-and-classifications",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/general-information/history",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/general-information/programs-and-initiatives",
+    "score": 0.96
+  },
+  {
+    "path": "/about-us/staff/executive-director",
+    "score": 0.96
+  },
+  {
+    "path": "/about/community-engagement/citizen-advocate-meetings",
+    "score": 0.96
+  },
+  {
+    "path": "/about/community-engagement/how-to-donate-faith-items",
+    "score": 0.96
+  },
+  {
+    "path": "/about/community-engagement/mentorship",
+    "score": 0.98
+  },
+  {
+    "path": "/about/community-engagement/volunteer-opportunities",
+    "score": 0.96
+  },
+  {
+    "path": "/about/data-and-reports/governors-dashboard-wig-updates",
+    "score": 0.98
+  },
+  {
+    "path": "/about/data-and-reports/long-range-financial-plan",
+    "score": 0.98
+  },
+  {
+    "path": "/about/data-and-reports/other-published-reports",
+    "score": 0.98
+  },
+  {
+    "path": "/about/data-and-reports/regulatory-plan-agendas",
+    "score": 0.98
+  },
+  {
+    "path": "/about/data-and-reports/statistics",
+    "score": 0.91
+  },
+  {
+    "path": "/about/department-policies",
+    "score": 0.96
+  },
+  {
+    "path": "/about/executive-directives",
+    "score": 0.98
+  },
+  {
+    "path": "/about/facilities-and-offices/office-of-the-inspector-general",
+    "score": 0.96
+  },
+  {
+    "path": "/about/general-information",
+    "score": 0.98
+  },
+  {
+    "path": "/about/prea",
+    "score": 0.96
+  },
+  {
+    "path": "/about/prea/helpful-links",
+    "score": 0.98
+  },
+  {
+    "path": "/about/prea/prea-annual-reports-and-audits",
+    "score": 0.98
+  },
+  {
+    "path": "/about/prea/prea-reporting",
+    "score": 0.98
+  },
+  {
+    "path": "/about/staff-organization",
+    "score": 0.96
+  },
+  {
+    "path": "/about/staff-organization/cci-programs",
+    "score": 0.98
+  },
+  {
+    "path": "/about/staff-organization/graace-alliance",
+    "score": 0.96
+  },
+  {
+    "path": "/about/staff-organization/organizational-structure",
+    "score": 0.98
+  },
+  {
+    "path": "/careers",
+    "score": 0.94
+  },
+  {
+    "path": "/careers/career-excitement",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/current-employees",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/current-employees/employee-benefits",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/current-employees/promotional-opportunities",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/current-employees/staff-referral-program",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/employee-handbook",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/employment-opportunities/application-process",
+    "score": 0.94
+  },
+  {
+    "path": "/careers/employment-verification",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/general-information",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/general-information/what-types-of-roles-do-we-hire-for",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/new-employee-information/basic-training-academy",
+    "score": 0.98
+  },
+  {
+    "path": "/careers/new-employee-information/basic-training-academy-faq",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/new-employee-information/basic-training-academy/testing",
+    "score": 0.96
+  },
+  {
+    "path": "/careers/new-employee-information/new-employee-orientation",
+    "score": 0.98
+  },
+  {
+    "path": "/contact-0",
+    "score": 0.96
+  },
+  {
+    "path": "/contact-a-community-care-case-manager",
+    "score": 0.97
+  },
+  {
+    "path": "/contact-us",
+    "score": 0.98
+  },
+  {
+    "path": "/es",
+    "score": 0.9
+  },
+  {
+    "path": "/es/node/10241",
+    "score": 0.96
+  },
+  {
+    "path": "/es/node/10426",
+    "score": 0.96
+  },
+  {
+    "path": "/es/node/11586",
+    "score": 0.96
+  },
+  {
+    "path": "/es/node/11736",
+    "score": 0.98
+  },
+  {
+    "path": "/es/node/11751",
+    "score": 0.98
+  },
+  {
+    "path": "/facilities",
+    "score": 0.97
+  },
+  {
+    "path": "/facilities/arkansas-valley-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/canon-city",
+    "score": 0.97
+  },
+  {
+    "path": "/facilities/canon-city/centennial-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/canon-city/colorado-territorial-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/canon-city/four-mile-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/canon-city/fremont-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/canon-city/skyline-correctional-center",
+    "score": 0.96
+  },
+  {
+    "path": "/facilities/denver-complex/denver-reception-diagnostic-center",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/denver-complex/denver-womens-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/private-prisons",
+    "score": 0.97
+  },
+  {
+    "path": "/facilities/private-prisons/bent-county-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/private-prisons/crowley-county-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/pueblo-campus/la-vista-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/pueblo-campus/san-carlos-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/pueblo-campus/youthful-offender-system",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/sterling-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/facilities/trinidad-correctional-facility",
+    "score": 0.94
+  },
+  {
+    "path": "/general-records-requests",
+    "score": 0.98
+  },
+  {
+    "path": "/hike",
+    "score": 0.96
+  },
+  {
+    "path": "/home",
+    "score": 0.9
+  },
+  {
+    "path": "/libraries-0",
+    "score": 0.96
+  },
+  {
+    "path": "/media-requests",
+    "score": 0.95
+  },
+  {
+    "path": "/medical-records-requests",
+    "score": 0.98
+  },
+  {
+    "path": "/meet-the-leadership-team",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/cora/ccjra",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/cora/ccjra/cora/ccjra-explainer",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/cora/ccjra/file-a-request",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/external-research-requests/file-a-request",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/external-research-requests/general-information-on-research",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/fugitive-information",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/fugitive-information/absconders",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/fugitive-information/escapees",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/fugitive-information/walkaways",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/inmate-record-request",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/inmate-record-request-0",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/media/media-contacts-and-requests",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/media/media-policies-and-information",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/medical-records-request/file-a-request",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/medical-records-request/what-is-available-and-to-whom",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/offender-record-request/file-a-request",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/offender-record-request/general-information",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/offender-record-request/what-is-available-and-to-whom",
+    "score": 0.96
+  },
+  {
+    "path": "/news-and-records/press-releases",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/tours",
+    "score": 0.98
+  },
+  {
+    "path": "/news-and-records/tours/requests-and-forms",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/centennial-correctional-facility-visitation-cancelled-for-9/17-and-9/18-except-for",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/colorado-state-penitentiary-to-resume-weekend-visitation-beginning-2/11/2023",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/covid-19-visiting-restrictions",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/date-changes-for-video-visitation-at-limon",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/doc-network-systems-temporarily-down",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/in-person-visitation-capacity-increase-at-all-facilities-0",
+    "score": 0.95
+  },
+  {
+    "path": "/news-article/in-person-visiting-will-resume-at-all-facilities-week-of-3/14",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/mask-guidance/visiting-guidelines-update-effective-3/25",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/state-agencies-with-24/7-facilities-to-require-covid-19-vaccinations-for-staff-members",
+    "score": 0.96
+  },
+  {
+    "path": "/news-article/visitation-at-fremont-correctional-facility-cancelled-for-11/4-and-11/6",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visitation-at-yos-cancelled-for-8/11/2023-will-be-back-to-normal-on-8/12/2023",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visitation-canceled-at-yos-for-friday-8/4-sunday-8/6",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visitation-cancelled-at-centennial-correctional-facility-from-12/9-12/11",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visitation-for-denver-womens-correctional-facility-cancelled-for-saturday-12/10",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visitation-on-7/3/2022-cancelled-at-arkansas-valley-correctional-facility",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visiting-canceled-for-drdc-and-dwcf-5-11-19",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/visiting-cancelled-at-crowley-county-correctional-facility-on-1/29",
+    "score": 0.98
+  },
+  {
+    "path": "/news-article/yos-pm-visitation-cancelled-7/28",
+    "score": 0.98
+  },
+  {
+    "path": "/node/10000",
+    "score": 0.94
+  },
+  {
+    "path": "/node/10002",
+    "score": 0.94
+  },
+  {
+    "path": "/node/10003",
+    "score": 0.92
+  },
+  {
+    "path": "/node/10004",
+    "score": 0.88
+  },
+  {
+    "path": "/offender-resources/contact-an-offender/by-email",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/contact-an-offender/packages",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/contact-an-offender/tablet/video-visiting",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/contact-an-offender/telephone",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/family-information",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/family-information/emergency-notification",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/family-information/hipaa",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/inmate-money-banking/inmate-pay",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/inmate-money-banking/office-of-offender-banking",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/legal/ada-accomodation",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/legal/greivance-process",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/legal/law-library",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/mediacal-and-mental-health/accessing-care",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/mediacal-and-mental-health/offender-co-pays",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/mediacal-and-mental-health/overview-of-services-available",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/mediacal-and-mental-health/stomp-rtp-and-tc-programs",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-education/education-matrix",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-education/pell-grant",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-education/programs-offered",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-education/transcript-request",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-food-menus/food-accomodations",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-food-menus/medical-diets",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/offender-food-menus/religious-diets",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/visit-an-offender/non-contact-visits",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/visit-an-offender/religious-visits",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/visit-an-offender/suspensions",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/visit-an-offender/visitation-cancellations",
+    "score": 0.96
+  },
+  {
+    "path": "/offender-resources/visit-an-offender/visitor-ada-accomodations",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry-services",
+    "score": 0.93
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services/community-based-programs",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services/community-re-entry-specialists",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services/employment-and-education",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services/take-two-transitional-work-opportunity",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/community-based-services/wagees-and-community-partners",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/general-information",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/general-information/contact-parole",
+    "score": 0.93
+  },
+  {
+    "path": "/parole-and-re-entry-services/general-information/cwise",
+    "score": 0.95
+  },
+  {
+    "path": "/parole-and-re-entry-services/general-information/parole-offices",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/general-information/parole-sponsorship",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision",
+    "score": 0.94
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/community-corrections",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/community-corrections/applying-for-community-corrections",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/community-corrections/community-corrections-facilities",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/community-corrections/intensive-supervision-program-inmate",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/community-corrections/movement-to-community-corrections",
+    "score": 0.97
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/interstate-compact",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/parole",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/supervision/specialized-supervision",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning/behavioral-health-transition-plans",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning/interstate-compact",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning/parole-plan-process",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning/restore",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-and-re-entry-services/transition-planning/state-id-program",
+    "score": 0.95
+  },
+  {
+    "path": "/parole-and-re-entry/community-corrections/eligibility-timelines",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/community-partners",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/faqs",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/formerly-incarcerated-people/information-for-employers",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/formerly-incarcerated-people/mentoring-program",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/general-information/pre-parole-section",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/general-information/services",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/how-com-core-works",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/inmate-resources",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/offender-resources/gate-money-and-release-logistics",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/offender-resources/mental-health-treatment-services-and-offender-med-fund",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/offender-resources/parole-board-information",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/offender-resources/parole-revocation-violations-and-parole-holds",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-and-re-entry/what-to-expect-on-parole",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-faqs",
+    "score": 0.96
+  },
+  {
+    "path": "/parole-fugitive-operations",
+    "score": 0.98
+  },
+  {
+    "path": "/parole-helpful-links",
+    "score": 0.98
+  }
+]
